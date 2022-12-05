@@ -3,6 +3,13 @@ i = 0
 if i == 0:
     print("Vas bien, esta es la primera prueba solo")
 
-sum = 1
 
-#Buen día grupooo
+
+#Buen día grupo
+
+nombre = len(input("Ingrese su nombre: "))
+
+if nombre >= 5:
+    print("Buen nombre")
+else:
+    print("Maluco ese nombre")
