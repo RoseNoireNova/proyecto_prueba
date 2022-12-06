@@ -13,3 +13,5 @@ if nombre >= 5:
     print("Buen nombre")
 else:
     print("Maluco ese nombre")
+
+#Hola equipooooo, seguimos practicando con git, vamos  a combinar dos documentos
