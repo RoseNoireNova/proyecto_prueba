@@ -7,3 +7,17 @@ if edad >=8:
     print("Su correo es: "+nombre+"@gmail.com")
 else:
     print("Tas muy chiqui para hablar por hotmail")
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+#Es importante ser ordenado a la hora de escribir código
