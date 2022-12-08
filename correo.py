@@ -7,17 +7,8 @@ if edad >=8:
     print("Su correo es: "+nombre+"@gmail.com")
 else:
     print("Tas muy chiqui para hablar por hotmail")
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-#Es importante ser ordenado a la hora de escribir código
+
+#Comienzo desarrollo experimental
+
+#Git es demasiado importante en el desarrollo de programas y por esta razón estoy intentando aprenderlo de la mejor manera,
+#así me demore un poco más.
